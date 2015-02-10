@@ -9,7 +9,7 @@
 #
 
 init() {
-    EMAIL="peeyush.budhia@gmail.com"
+    EMAIL="someone@domain"
 }
 
 chkMutt() {
